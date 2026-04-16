@@ -10,8 +10,7 @@ int  fact(int n){
     return sum;
 
 };
-
-
+// aut
 int main(){
     int n ;
     cout<< "enter number ";
@@ -19,3 +18,4 @@ int main(){
     cout<<fact(n);
     return 0;
 }
+//hel
