@@ -10,7 +10,7 @@ int  fact(int n){
     return sum;
 
 };
-// aut
+// main function
 int main(){
     int n ;
     cout<< "enter number ";
@@ -18,4 +18,4 @@ int main(){
     cout<<fact(n);
     return 0;
 }
-//helefivv    edfv
+// factorial in cpp
