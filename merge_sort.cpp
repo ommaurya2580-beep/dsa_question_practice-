@@ -44,7 +44,7 @@ void merge_sort(vector<int>& arr, int low, int high){
 }
 
 int main(){
-    vector<int> arr = {11,22,43,4,35,16,73,85,99};// lets an example 
+    vector<int> arr = {11,22,43,4,35,16,73,85,99};// lets an example asdfghjkl
 
     merge_sort(arr, 0, arr.size() - 1);
 
